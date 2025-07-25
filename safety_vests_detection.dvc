@@ -1,6 +1,6 @@
 outs:
-- md5: 17b70b2ace60b4585a1ef85c04156653.dir
-  size: 431754519
-  nfiles: 3900
+- md5: 8d5ac6cc5ae28a0f67d63e6252f06282.dir
+  size: 333674442
+  nfiles: 3121
   hash: md5
   path: safety_vests_detection
